@@ -3,4 +3,4 @@ This code enables you to convert a group of images from RGB to Binary using MATL
 
 To run this simple script, simply type the following in your MATLAB Command Window:
 
->> rgb_to_binary
+`>> rgb_to_binary`
