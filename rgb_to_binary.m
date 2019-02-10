@@ -1,7 +1,7 @@
 % This code enables you to convert an RGB image to a binary image for a group of images
 % @author: Abder-Rahman Ali
 % abder@cs.stir.ac.uk
-D = '/path_to)images';
+D = '/path_to_images';
 S = dir(fullfile(D,'*.tif')); 
 for k = 1:numel(S)
     F = fullfile(D,S(k).name);
